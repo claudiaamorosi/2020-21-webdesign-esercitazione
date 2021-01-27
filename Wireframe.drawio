@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T08:22:45.040Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="0bgOCmRYb_ydwND7GqHM" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T08:30:14.149Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IxeEHmPHc3nsW50xHhB8" version="14.2.7" type="github">
   <diagram id="HQZSW2-YOYBsmXDDac5F" name="Page-1">
     <mxGraphModel dx="1099" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="zPHGo2zBqFZL4SyeNaxN-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="250" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="zPHGo2zBqFZL4SyeNaxN-3" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="zPHGo2zBqFZL4SyeNaxN-3" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;gradientColor=none;fontColor=#EA6B66;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="230" height="390" as="geometry" />
         </mxCell>
         <mxCell id="zPHGo2zBqFZL4SyeNaxN-4" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="zPHGo2zBqFZL4SyeNaxN-3">
